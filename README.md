@@ -3,7 +3,7 @@ A Discord bot for picking random Hadith
 
 ---
 
-## Usage
+## ⚙️ Usage
 1. Clone the Repository
 ```
 git clone https://github.com/mini-seed/Hadith-Discord.git
@@ -26,7 +26,12 @@ npm start
 
 ---
 
-## TODO
+## 📝 TODO
 - [ ] Implement database from [Hadith Islamware Repository](https://github.com/ceefour/hadith-islamware)
 - [ ] Integrate Repository with Heroku
 - [ ] Implement Webhook Techonology
+
+---
+
+## 📜 License
+- This Project is Licensed under [MIT License](https://github.com/mini-seed/Hadith-Discord/blob/master/README.md)
