@@ -34,4 +34,4 @@ npm start
 ---
 
 ## 📜 License
-- This Project is Licensed under [MIT License](https://github.com/mini-seed/Hadith-Discord/blob/master/README.md)
+- This Project is Licensed under [MIT License](https://github.com/mini-seed/Hadith-Discord/blob/master/LICENSE)
